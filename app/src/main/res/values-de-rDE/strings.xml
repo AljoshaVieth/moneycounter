@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geldzähler</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="coins">Münzen</string>
+    <string name="money_rolls">Geldrollen</string>
+    <string name="banknotes">Geldscheine</string>
+    <string name="other">Anderes</string>
+    <string name="amount_should_be">Betrag soll sein:</string>
+    <string name="amount_is">Betrag ist:</string>
+    <string name="difference">Differenz:</string>
+    <string name="done">Fertig</string>
+    <string name="packages">Pakete</string>
+    <string name="_2">2 €</string>
+    <string name="_1">1 €</string>
+    <string name="_50_ct">50 ct</string>
+    <string name="_20_ct">20 ct</string>
+    <string name="_10_ct">10 ct</string>
+    <string name="_5_ct">5 ct</string>
+    <string name="_2_ct">2 ct</string>
+    <string name="_1_ct">1 ct</string>
+    <string name="_100">100 €</string>
+    <string name="_50">50 €</string>
+    <string name="_20">20 €</string>
+    <string name="_10">10 €</string>
+    <string name="_5">5 €</string>
+    <string name="cash_amount">Kassenbetrag:</string>
+    <string name="back">Tippe nochmal auf ZURÜCK, um die App zu verlassen</string>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">money counter</string>
+    <string name="reset">reset</string>
+    <string name="coins">Coins</string>
+    <string name="money_rolls">money Rolls</string>
+    <string name="banknotes">banknotes</string>
+    <string name="other">other</string>
+    <string name="amount_should_be">Amount should be</string>
+    <string name="amount_is">Amount is:</string>
+    <string name="difference">Difference:</string>
+    <string name="done">Done</string>
+    <string name="packages">Packages</string>
+    <string name="_2">2 €</string>
+    <string name="_1">1 €</string>
+    <string name="_50_ct">50 ct</string>
+    <string name="_20_ct">20 ct</string>
+    <string name="_10_ct">10 ct</string>
+    <string name="_5_ct">5 ct</string>
+    <string name="_2_ct">2 ct</string>
+    <string name="_1_ct">1 ct</string>
+    <string name="_100">100 €</string>
+    <string name="_50">50 €</string>
+    <string name="_20">20 €</string>
+    <string name="_10">10 €</string>
+    <string name="_5">5 €</string>
+    <string name="cash_amount">Cash amount:</string>
+    <string name="back">Please click BACK again to exit</string>
+</resources>
